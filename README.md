@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.   
 
-!Kodluyoruz[http://siviltoplumdestek.org/wp-content/uploads/2019/06/kodluyoruz-kodlama-gelecek-gelecegi-kodluyoruz-gelecek-burada.jpg]
+![Kodluyoruz](http://siviltoplumdestek.org/wp-content/uploads/2019/06/kodluyoruz-kodlama-gelecek-gelecegi-kodluyoruz-gelecek-burada.jpg)
 
 ## Installation
 
